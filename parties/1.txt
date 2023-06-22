@@ -1,0 +1,39 @@
+&&&,0
+0---7
+1---Squirtle
+2---Torrent
+3---Blizzard
+4---Aura Sphere
+5---Aqua Tail
+6---Work Up
+7---50
+8---Rash
+9---
+10---Toxic Orb
+0!!!,
+&&&,3
+0---59
+1---ddLMNOP
+2---Flash Fire
+3---Wild Charge
+4---Close Combat
+5---Aerial Ace
+6---Thief
+7---100
+8---Hardy
+9---Hisui
+10---Utility Umbrella
+3!!!,
+&&&,5
+0---59
+1---Arcanine
+2---NoAbility
+3---NoMove
+4---Aerial Ace
+5---NoMove
+6---NoMove
+7---100
+8---Hardy
+9---
+10---NoItem
+5!!!,
