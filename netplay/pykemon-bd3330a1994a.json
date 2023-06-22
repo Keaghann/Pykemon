@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "pykemon",
+  "private_key_id": "bd3330a1994ab3454137a512d55a5e602b59079f",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCx3tBrlNBYQ+FU\njo3mMj5HarSELcMqB4MMCWo2bafDaCrG/DtdZ5SF0x8z3l01T1mWUYoQSmX/C3Pl\ng+8WXqjcmQArgSAwIDz3xBKyvREOk0iA533D9wsd87saIdW4CCGfDKg8IXXTGf04\nSP/cqaiokJepyMgDfFXdgZTs59wJ5sgp9zmyPrCM1/4u057UaQNe4gih++gchasE\nmaUDQ5QnOJ0LH7i9fB2jcwlFcHfu+rZyY13o6eB/ITRUBT5rK/J/8Q0YbiKubHR5\nn14LpkEZY1THY/H9rCriyaswk37HgoxwhgvmJoPMD7YDBzNsQQU8sjf+43VNXqwW\nIsQsxc7BAgMBAAECggEABY56YFdTyDjGpJzsyJDalTc7exhFjTM9istjKrQeQOJ+\nLkfZlZS+H7ggChTGQKYWnGA2ZJqOY9CjHDu/j6lWs8gr0zAY0KgRKi774+Li0jET\nsMM1O0FPyEMW8z1fWdJsinVwxAAfmCqrAxkfX8YFDiRbjeLx109eYf8W/JekWMLJ\ngNmXiNig3NHtvI6zmTjwuuAhsttxDHTVBPOImyKleChm8V2hKbgPzJZMqklCyLzf\nw8sXYrwb2Ys7QxwhRW+CUkHOrYOZiI+oMyBCLMpkttumIjGwxWW3kkEt1s4WB72N\nMYooqgbr9ju6xyX8Jws7PlD8L0fHwrd20MnYFJMhyQKBgQDqJAZ/3amD45CGX9qp\nxBVonBqIA2kHNWU8aBTPM5nByV6nPAl9zPGYGO4VOcYSRNGKxe6jEe91UIOk2HO4\n5/qqDZPhtvCe/YCzdS0+3zPgnYyX+k4bHV8QD76iok+L6ME6GloRrkN36fCvNwSW\nNVDfOWP2isgfLptAHWrEGyFFOwKBgQDCeeytMCztSvufrWgkAVZx2piVAKE6cdp5\njwdZhTuLKNmn5VsabVhmHc4SEMKFbNmqTFFSKSbG1rOiMjQxihjjhsVrfIw4utvS\nAiNETfhQ0n0AQmU+m3e/YamSxPWRnDPTU1XMg3aYiOF2o+bb8JNVFbMkfof93Na8\njK843k7MMwKBgQDfm8otQYeL8r/q5Q5ShXagsjzQWtlqTf9CAnClNbWJEgR4mGjE\nIP8179EoqkVU2y53ZvKyAAX9twgSXbmfBMUqtM7fiLQiUx4fxS+R1N6ZjD1iQ2Vm\nldVc5Hx+m552krI/CD2ulwvOMLhwzY1u2rpChW/HW+EljoAsaiu13+cVUwKBgGQ7\nFKlaB/2wxKjSZbcQ3W3GnRdGgNIvdctq1P3ldf/N6QfoZKDlNEdFGz0iWC8OH8zu\nkocG4I5gf6qbt1zE8PjrL/qq8VYXsE23fleo289D/NrSXX38AKapfg0/59TJLci/\nzZufMdOB0Lol1UkL39NdYLvxXsOPOzloRLLJmNETAoGAOrNGTjmPbrEK0MrKR0Ap\nSgzrtTrZbt7oPFoQMhuTRfSdQy+H2uTtwDeNnwEzSsqVcaewIGUiiZURmvxouqcK\nYzioKBLEAz1ySmujwdXMYryVe/ID7gqbnDEbuBnEwtAtzfvJB+yOr8eTL/UqkQPO\n1jCG+0TyHBxa30egS8IgXNU=\n-----END PRIVATE KEY-----\n",
+  "client_email": "pykemon@pykemon.iam.gserviceaccount.com",
+  "client_id": "110671968635210691368",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/pykemon%40pykemon.iam.gserviceaccount.com"
+}

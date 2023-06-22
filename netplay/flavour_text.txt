@@ -1,0 +1,128 @@
+{player} sent out {active_mon}!
+{opponent} sent out {opponent_mon}!
+Waiting for opponent...
+{active_mon} used {move}!
+{opponent_mon} used {opponent_move}!
+It's super effective!
+It's not very effective...
+It doesn't affect {opponent_mon}...
+It doesn't affect {active_mon}...
+{active_mon} fainted!
+{opponent_mon} fainted!
+{player} sent out {active_mon}!
+{opponent} sent out {opponent_mon}!
+{active_mon} was burned!
+{opponent_mon} was burned!
+{active_mon} was poisoned!
+{opponent_mon} was poisoned!
+{active_mon} was covered in a deadly poison!
+{opponent_mon} was covered in a deadly poison!
+{active_mon} became frozen!
+{opponent_mon} became frozen!
+{active_mon} fell asleep!
+{opponent_mon} fell asleep!
+{active_mon}'s Attack rose!
+{active_mon}'s Attack rose greatly!
+{active_mon}'s Attack sharply rose!
+{active_mon}'s Attack fell!
+{active_mon}'s Attack greatly fell!
+{active_mon}'s Attack sharply fell!
+{opponent_mon}'s Attack rose!
+{opponent_mon}'s Attack rose greatly!
+{opponent_mon}'s Attack sharply rose!
+{opponent_mon}'s Attack fell!
+{opponent_mon}'s Attack greatly fell!
+{opponent_mon}'s Attack sharply fell!
+{active_mon}'s Defense rose!
+{active_mon}'s Defense rose greatly!
+{active_mon}'s Defense sharply rose!
+{active_mon}'s Defense fell!
+{active_mon}'s Defense greatly fell!
+{active_mon}'s Defense sharply fell!
+{opponent_mon}'s Defense rose!
+{opponent_mon}'s Defense rose greatly!
+{opponent_mon}'s Defense sharply rose!
+{opponent_mon}'s Defense fell!
+{opponent_mon}'s Defense greatly fell!
+{opponent_mon}'s Defense sharply fell!
+{active_mon}'s Special Attack rose!
+{active_mon}'s Special Attack rose greatly!
+{active_mon}'s Special Attack sharply rose!
+{active_mon}'s Special Attack fell!
+{active_mon}'s Special Attack greatly fell!
+{active_mon}'s Special Attack sharply fell!
+{opponent_mon}'s Special Attack rose!
+{opponent_mon}'s Special Attack rose greatly!
+{opponent_mon}'s Special Attack sharply rose!
+{opponent_mon}'s Special Attack fell!
+{opponent_mon}'s Special Attack greatly fell!
+{opponent_mon}'s Special Attack sharply fell!
+{opponent_mon}'s Special Defense rose!
+{opponent_mon}'s Special Defense rose greatly!
+{opponent_mon}'s Special Defense sharply rose!
+{active_mon}'s Special Defense fell!
+{active_mon}'s Special Defense greatly fell!
+{active_mon}'s Special Defense sharply fell!
+{active_mon}'s Special Defense rose!
+{active_mon}'s Special Defense rose greatly!
+{active_mon}'s Special Defense sharply rose!
+{opponent_mon}'s Special Defense fell!
+{opponent_mon}'s Special Defense greatly fell!
+{opponent_mon}'s Special Defense sharply fell!
+{active_mon}'s Speed rose!
+{active_mon}'s Speed rose greatly!
+{active_mon}'s Speed sharply rose!
+{active_mon}'s Speed fell!
+{active_mon}'s Speed greatly fell!
+{active_mon}'s Speed sharply fell!
+{opponent_mon}'s Speed rose!
+{opponent_mon}'s Speed rose greatly!
+{opponent_mon}'s Speed sharply rose!
+{opponent_mon}'s Speed fell!
+{opponent_mon}'s Speed greatly fell!
+{opponent_mon}'s Speed sharply fell!
+{active_mon}'s {ability} protected it from the attack!
+{opponent_mon}'s {opponent_ability} protected it from the attack!
+{active_mon}'s {ability} protected it from it's attack!
+{opponent_mon}'s {opponent_ability} protected it from it's attack!
+But nothing happened!
+{active_mon} took recoil damage!
+{opponent_mon} took recoil damage!
+The sunlight turned harsh!
+The harsh sunlight faded.
+The sunlight turned extremely harsh!
+The extremely harsh sunlight was not lessened at all!
+The Water-type attack evaporated in the harsh sunlight!
+It started to rain!
+The rain stopped.
+A heavy rain began to fall!
+There is no relief from this heavy rain!
+The Fire-type attack fizzled out in the heavy rain!
+A sandstorm kicked up!
+{active_mon} is buffeted by the sandstorm!	
+{opponent_mon} is buffeted by the sandstorm!
+The sandstorm subsided.
+It started to hail!
+{active_mon} is buffeted by the hail!
+{opponent_mon} is buffeted by the hail!
+The hail stopped.
+{active_mon} became confused!
+{active_mon} is confused!
+{opponent_mon} became confused!
+{opponent_mon} is confused!
+It hurt itself in it's confusion!
+{player} won!
+{opponent} won!
+An error has occurred. You will be brought back to the online menu.
+{opponent_mon} was hurt by its burn!
+{active_mon} was hurt by its burn!
+{active_mon} was hurt by poison!
+{opponent_mon} was hurt by poison!
+{active_mon} was paralysed!
+{opponent_mon} was paralysed!
+{active_mon} took the kind offer!
+{opponent_mon} took the kind offer!
+{active_mon} had their stat changes removed!
+{opponent_mon} had their stat changes removed!
+{active_mon} switched all changes to its Defense and Special Defense with {opponent_mon}!
+{opponent_mon} switched all changes to its Defense and Special Defense with {active_mon}!
